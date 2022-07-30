@@ -102,8 +102,8 @@ nav ul li a
 h1
 {
     text-align: center;
-    font-size: 120px;
-    font-family:'Gasalt-Black.ttf' ;
+    font-size: 100px;
+    font-family:'raleway-Medium.ttf' ;
     color:#fff;
     letter-spacing: 2px;
     word-spacing: 25px;
@@ -119,9 +119,9 @@ h1:hover
 h3
 {
     text-align: center;
-    font-size: 40px;
+    font-size: 20px;
     color:#fff;
-    font-family:'Gasalt-Black.ttf' ;
+    font-family:'raleway-Medium.ttf' ;
     letter-spacing: 1px;
     opacity: 1;
     transition: 0.5s ease;
